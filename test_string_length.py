@@ -12,3 +12,5 @@ def compare_word(word):
 
 word = input("Please enter a word: ")
 compare_word(word)
+
+print("Hello World")
